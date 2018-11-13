@@ -1,4 +1,4 @@
-#! usr/bin/python3
+#! /usr/bin/python3
 
 from .create import new_account
 from .create import fast_mail_with_atth as fmwa
