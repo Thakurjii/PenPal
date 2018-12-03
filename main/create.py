@@ -1,18 +1,18 @@
 #! /usr/bin/python3
 
 import getpass
-from .database import store
-from .database import retrieve
-
-import smtplib
 import os.path as op
-from email.mime.base import MIMEBase
+import smtplib
+from email import encoders
 from email.mime.application import MIMEApplication
+from email.mime.base import MIMEBase
 from email.mime.multipart import *
 from email.mime.text import *
 from email.utils import COMMASPACE, formatdate
-from email import encoders
 from os.path import basename
+
+from .database import retrieve, store
+
 
 #To add new Gmail account
 def new_account():
