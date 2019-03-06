@@ -10,7 +10,7 @@ PenPal
 
 ✨🍰✨
 
-## To use your gmail account with penpal, firstly follow the these steps :-
+## To use your gmail account with penpal,follow these steps :-
 
 1. [Sign in to Gmail](https://www.google.com/gmail/) in your browser.
 2. For accounts having 2 step verification :-
