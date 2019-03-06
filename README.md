@@ -23,4 +23,13 @@ PenPal
 
 ### Now you are ready to go with Penpal.
 * [Download]() PenPal for Windows.(Currenly, Unavailable)
-* [Download]() PenPal for Linux.(Currenly, Unavailable)
+* [Download](https://github.com/Thakurjii/PenPal/raw/master/exec/penpal) PenPal for Linux.
+
+### How to Use :-
+
+* For linux, run the executable file by "./penpal" from the command line in the directory where executable file is present.
+* For windows, just run "penpal.exe" by double clickimg on it. 
+
+
+
+#              Have Fun       😉
