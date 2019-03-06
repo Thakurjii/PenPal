@@ -22,7 +22,7 @@ PenPal
 4. Next to “Allow less secure apps: OFF,” select the toggle switch to turn ON.
 
 ### Now you are ready to go with Penpal.
-* [Download]() PenPal for Windows.(Currenly, Unavailable)
+* [Download](https://github.com/Thakurjii/PenPal/raw/master/exec/penpal.exe) PenPal for Windows.
 * [Download](https://github.com/Thakurjii/PenPal/raw/master/exec/penpal) PenPal for Linux.
 
 ### How to Use :-
