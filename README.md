@@ -3,7 +3,7 @@ PenPal
 
 * Send Gmail using Command Line.
 * Simple, Fast and Efficient.
-* Available for Linux as well as mac.
+* Available for Windows as well as Linux.
 
 
 ---------------
