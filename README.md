@@ -28,6 +28,7 @@ PenPal
 ### How to Use :-
 
 * For linux, run the executable file by "./penpal" from the command line in the directory where executable file is present.
+OR Add Penpal to PATH variable _export PATH=/path/to/folder:$PATH_ and directly type penpal in terminal.
 * For windows, just run "penpal.exe" by double clicking on it. 
 
 
