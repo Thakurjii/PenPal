@@ -1,6 +1,6 @@
 #! /usr/bin/python3
 
-from main.selector import select_op
+from penpal.selector import select_op
 
 try:
     #Operations Choice

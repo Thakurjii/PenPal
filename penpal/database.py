@@ -1,12 +1,12 @@
 #! /usr/bin/python3
 
-import os
+import os, sys, getpass
 
 #USER_CREDENTIALS_FILE
-FILE_PATH=r'C:/Users/'+os.getlogin()+'/AppData/Local/.PenPal'
-FILE_NAME=os.path.join(FILE_PATH,'database.pnpl')
+FILE_PATH = r'C:\\Users\\'+getpass.getuser()+'\\AppData\\Local\\.PenPal' if sys.platform.lower().find("win") > -1 else r"/home/"+getpass.getuser()+"/.PenPal"
+FILE_NAME = os.path.join(FILE_PATH,'database.pnpl')
 #DEFAULT_EXCEPTION_MESSAGE
-MESSAGE='Something went wrong.Please try to add account again.'
+MESSAGE = 'Something went wrong.Please try to add account again.'
 
 #To store credentials file
 def store(mail_id,password):
