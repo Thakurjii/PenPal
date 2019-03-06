@@ -28,7 +28,7 @@ PenPal
 ### How to Use :-
 
 * For linux, run the executable file by "./penpal" from the command line in the directory where executable file is present.
-* For windows, just run "penpal.exe" by double clickimg on it. 
+* For windows, just run "penpal.exe" by double clicking on it. 
 
 
 
